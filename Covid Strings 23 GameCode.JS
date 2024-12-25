@@ -1,0 +1,156 @@
+<doc.type.html
+<script>
+filename=covidstrings23gamecode.js
+java.awt graphics 
+this.img=document.createelement(covid)
+img.src=http://www.google.com/intl/en_com/images/logo_plain.png
+src=document getelementbyid(header)
+src.appendchild(this.img)
+div id=header></div>
+audio=new audio(audio_file mp3)
+audio.play 
+jbutton random button
+new jbutton (set random color)
+private final j button option button=
+new j button(change color)
+public fun with graphics(){
+jpanel color panel=new j panel();
+this add (panel,center )
+jpanel button panel=
+new j panel (flowlayout.center)
+buttonpanel.add(randombutton);
+random.button add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+random r= newrandom();
+colorpanel.setbackground(new color (rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
+buttonpanel.add(optionbutton);
+optionbutton.add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+colorm=jcolorchooser.showdialog(funwithgraphics.this)
+if(multi!=null)
+color panel set.background(multi)
+this.add(buttonpanel,borderlayout.south)
+public static main(string [] args)
+jframef =new covid strings23()
+f.set title(covid strings23)
+f.set default closeoperation(jframe.exit_on_close);
+f.setsize
+f.set visible(true);
+<label id=lblscore>zero</label>
+score=zero
+if (mult == x*y)
+[non-concatenated]
+score+=ten
+else:
+score-=ten
+if (mult ==x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object{a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object=[team color]
+covidstrings teamlist23= [yellow,burgundy,blue,green,orange,purple,indigo,red]
+covid strings multiple choice list23=[1:a2019 b2015 c2020 d1690,2:a saturday b on presidents day c parties d hangovers,3:a flu b rsv c the common cold d january6th defendants ,4:a65 b55 c217 d4 thousand,5:a watching bridgerton b loneliness c suicides d raves,6:a2nd b3rd c4th d5th,7:a mental b physical c faraday futures d child stars,8:a rad b much like animal house c bad d much like hearing ryan seacrest host wheel of fortune,9:a younger b teen wolves c older d pro-athletes,10:a worse b the same c milder d into your head,11:a five b eight tenths c three d two,12:a9 b24 c16 d45,13:a world war1 casualties b48 hours is on c restrictions d the new car smell,14:a7 b33 c5 d55 15: a november b march c december d jocktober,16:a cdc b the ochos c nathans hot dog eating contest d nih,17:a2045 b1918 c2075 d2020,18:a ups b post c budget and management d cnn]
+covidstringsphraselist23=[non-concatenated covid may have actually killed off a strain of flu
+this comes on top of the fact that covid restrictions have stopped flu from spreading in2020
+not surprisingly flu could tick up when restrictions are lifted
+covid may not have just impacted mental health but long covid may have a side effect of insomnia
+this on top of the fact that covid already has caused an epidemic of loneliness 
+new cdc guidelines on isolation include ending it if an individual has been fever free for24 hours
+if that sounds concerning recommendations still say that people should take additional precautions for at least the next5 days
+the bad news is that  post office  will stop accepting orders for free covid tests on march8th
+concatenated strings
+one+reminder+of+getting+vaccinated+is+probably+dont+try+and+get+217+jabs
+it+is+also+important+to+know+that+older+people+should+specifically+get+their+2nd+shot+in+the+spring
+long+covid+can+also+lead+to+hangovers+that+are+pretty+bad
+covid+hangovers+are+miles+worse+than+super+bowl+hangovers
+for+example+younger+people+are+more+likely+to+die+of+a+heart+attack+post+covid
+even+so+covid+as+a+whole+has+gotten+milder
+one+in+three+adults+though+develop+some+sort+of+medical+condition]
+Covid Strings Math ProblemsList23=[If A Graph Shows A Decreasing Line Of Flu Infections In2020 Compared To An Increasing Number Of Covid Infections What Is The Relationship?,If The Slope Of The Graph Of Covid And Flu Infections Is2 And The Y Intercept Is3 Find  The Y Coordinate If The X Coordinate Is (4,11)?
+,If The Point Of (4,11) Was Reflected Along The Y Axis What Would The New Point Be?,If The Covid Point Of (-4,11) Was Rotated270 Degrees Counterclockwise What Would The Resulting Point Be?,If The Slope Of The Line With The Flu In2020 Was Zero Would It Ever Intersect With Covid?,If+A+Poll+Showed+80+Percent+Of+Americans+Were+Surprised+That+Covid+Killed+Off+A+Strain+Of+Flu+What+Percent+Dont?,If+70+Percent+Were+Mildly+Surprised+What+Percent+Was+Strong?,If+The+Margin+Of+Error+Is+10.2+Percent+What+Is+The+Range?,If+A+Poll+Shows+62+Percent+Are+Concerned+About+The+CDC+Dropping+Its+5+Day+Isolation+Recommendation+What+Percent+Dont?,If+44+Percent+Are+Strongly+Concerned+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+5.25+Percent+What+Is+The+Range?]
+Covid Strings Sentence List23=[One Should Not Worry About CDC Isolation Guidelines Easing Up,It Should Be A Historical Fact That Covid Killed The Flu In2020,The Post Office Stopping Delivering Covid Tests Is Reprehensible]
+covid strings scrambled phraselist23=[0202+ovcid+luf,42roush+evfer+refe,ditational+careputinos+5yads]
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax
+chart js 
+def gradient
+id=mygradient
+gradientunits=userspaceonuse
+x1=0
+y1=3
+x2=4
+y2=x2(2)+y1
+stop offset=0 stop-color=ff0000
+stop offset=1 stop color=0000ff
+a<lineargradient>
+<filter
+id=linear1
+filterunits=objectboundingbox
+x=0%
+y=0%
+width=100%
+height=100%
+<fecomponenttransfer>
+<fefunccovidstrings type=linear slope>=1
+transformationlist=[reflection,rotation,translation]
+if reflection==y axis:
+shift y axis
+else:
+shift x axis
+if rotation==270 degrees counter-clockwise:
+shift270 degrees -counterclockwise
+else:
+shift clockwise
+if translation==x units:
+shift x units
+else:
+remain
+if seelectedanswer=correct:
+return true
+else:
+return false
+if selectedanswer=not correct
+return false
+else 
+return true
+return filename
+
+
