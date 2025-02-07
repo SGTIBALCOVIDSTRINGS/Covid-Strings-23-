@@ -4,20 +4,20 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
-filename=covidstrings23gamecode.js
+filename=covidstrings23.js
 java.awt graphics 
 div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-button option button=
-new j button(change color)
+option button
+new  button(change color)
 public fun with graphics(){
 color panel=new j panel();
 add (panel,center )
-jpanel button panel=
-new j panel (flowlayout.center)
+button panel
+new panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
@@ -42,7 +42,7 @@ this.add(buttonpanel,borderlayout.south)
 public static main(string [] args)
 jframef =new covid strings23()
 f.set title(covid strings23)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
